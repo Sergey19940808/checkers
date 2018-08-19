@@ -1,0 +1,2 @@
+# checkers
+Phaser game checkers
