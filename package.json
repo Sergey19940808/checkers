@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Sergey19940808/checkers#readme",
   "devDependencies": {
     "lite-server": "^2.4.0",
-    "phaser": "2.6.0"
+    "phaser": "^3.11.0"
   }
 }
